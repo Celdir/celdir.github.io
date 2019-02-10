@@ -11,7 +11,7 @@ hide_description: true
 image: /assets/icons/icon.png
 
 menu: true
-cover: true
+cover: false
 order: 1
 
 ---
